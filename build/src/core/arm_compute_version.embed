@@ -1,0 +1,1 @@
+"arm_compute_version=v17.09 Build options: {'cppthreads': '0', 'standalone': '1', 'arch': 'arm64-v8a', 'opencl': '0', 'neon': '1', 'build': 'cross_compile', 'debug': '0', 'openmp': '0', 'os': 'bare_metal', 'Werror': '1'} Git hash=8938bd3f40ea62ff56d6ed4e2db0a8aee34dd64a"
